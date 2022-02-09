@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pdtian
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning PyQt
-- 💞️ I’m looking to collaborate on PyQt
+- 🌱 I’m currently learning PySide6
+- 💞️ I’m looking to collaborate on PySide6
 - 📫 email: pdtian@qq.com
 
 <!---
